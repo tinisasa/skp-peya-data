@@ -5,6 +5,10 @@
   "engines": {
     "sketch": ">=3.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinisasa/skp-peya-data.git"
+  },
   "skpm": {
     "name": "PeYa Cuisines Data",
     "manifest": "src/manifest.json",
